@@ -4,7 +4,6 @@ class Main {
     
     int first = 10;
     int second = 20;
-    int third = 30;
     int fourth = 40;
 
     // add two numbers
